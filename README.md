@@ -1,2 +1,2 @@
-# PortfolioMonitor
-A Windows Forms (.NET) application designed to visualize portfolio performance against a 2-week moving average. This tool assists in executing the Guyton-Klinger withdrawal strategy by tracking when the portfolio's composite value falls below specific thresholds relative to its moving average.
+# AccountBalanceViewer
+This is a Windows Forms application designed to make updateing My Retirement Tracking Spreadsheet simple by aggregating by taxable type and including the normalization factor in a preformed calculation that can be pasted directly into one of the tax type columns shown by the application.
