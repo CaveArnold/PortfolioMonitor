@@ -48,6 +48,8 @@ The application relies on the `Guyton-Klinger-Withdrawals` database with the fol
 2.  **Stored Procedure:** `[dbo].[usp_GetWithdrawalStrategy]`
     * Returns: A single string (Scalar) representing the current strategy name.
 
+    * All the required database schema objects can be created using the DDL kept in this GitHub repository: [Guyton-Klinger-Withdrawals](https://github.com/CaveArnold/Guyton-Klinger-Withdrawals)
+
 ---
 
 ## Installation & Setup
