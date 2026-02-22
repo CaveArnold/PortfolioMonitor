@@ -74,3 +74,14 @@ The application relies on the `Guyton-Klinger-Withdrawals` database with the fol
     * Read the exact values at the bottom left of the screen.
 3.  **Investigate:** Drag a box around a specific dip to see weekly data points.
 4.  **Reset/Change:** Right-click to reset the view, or double-click to load a different Tax Type.
+
+---
+
+## Sample Screenshot
+
+![Portfolio Monitor Sample Screenshot](PortfolioMonitor.png)
+
+
+## License
+
+This project is licensed under the [GPL-3.0 License](LICENSE.txt).
